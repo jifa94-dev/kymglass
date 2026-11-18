@@ -455,7 +455,7 @@ footer nav a:hover{color:#fff}
 
 /* ===== ZIPSULI 구조 (2026-11-18, 청년유리 색 유지) ===== */
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-/* 공종별 자료 드롭다운 */
+/* 작업자료 드롭다운 */
 nav.main .dd{position:relative;display:flex;align-items:center}
 nav.main .dd-t{background:none;border:0;color:#dfe5ea;font:inherit;font-weight:600;font-size:15px;padding:8px 12px;border-radius:999px;cursor:pointer}
 nav.main .dd-t:hover{background:rgba(255,255,255,.1);color:#fff}
